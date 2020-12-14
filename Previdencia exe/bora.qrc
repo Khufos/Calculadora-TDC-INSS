@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="black">
+    <file>calen.png</file>
+  </qresource>
+  <qresource prefix="outrafo">
+    <file>df.png</file>
+  </qresource>
+</RCC>
